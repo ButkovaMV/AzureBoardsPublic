@@ -35,8 +35,7 @@ namespace AzureBoards
             }
             else
             {
-                // Это мои новые комментарии
-                // Делаем новій коммит
+                // This is my first change
                 app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
